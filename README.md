@@ -1,6 +1,6 @@
 # img2ascii
 
-Converts image to ASCII
+Converts image to ASCII <br>
 NOTE: it gets grabs all pixels and turns it into its ASCII shade equivalent. So it's advised to compress the image first to a specified size
 
 Original Image: <br>
